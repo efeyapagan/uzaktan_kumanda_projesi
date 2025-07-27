@@ -26,4 +26,4 @@ This is a command-line based TV remote control simulation developed using Python
 3. Open a terminal in the project directory and run:
 
 ```bash
-python remote_control_simulation.py
+python uzaktan_kumanda_projesi.py
